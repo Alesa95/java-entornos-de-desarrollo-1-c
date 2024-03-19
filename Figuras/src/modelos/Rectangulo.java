@@ -20,7 +20,7 @@ public class Rectangulo {
      * @param base 
      * @param altura
      */
-    public void Rectangulo(int base, int altura) {
+    public Rectangulo(int base, int altura) {
         this.base = base;
         this.altura = altura;
     }
